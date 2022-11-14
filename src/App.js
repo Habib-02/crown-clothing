@@ -1,4 +1,4 @@
-import HomePage from './HomePage.component'
+import HomePage from './pages/homepage/HomePage.component'
 
 import './App.css'
 
